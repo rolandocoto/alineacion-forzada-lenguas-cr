@@ -1,0 +1,9 @@
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\obj\Debug\correctorTextGrid_01.Properties.Resources.resources
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\obj\Debug\correctorTextGrid-01.csproj.GenerateResource.Cache
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\bin\Debug\correctorTextGrid-01.exe.config
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\bin\Debug\correctorTextGrid-01.exe
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\bin\Debug\correctorTextGrid-01.pdb
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\obj\Debug\correctorTextGrid-01.exe
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\obj\Debug\correctorTextGrid-01.pdb
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\obj\Debug\correctorTextGrid-01.csprojResolveAssemblyReference.cache
+C:\Users\Bender\documents\visual studio 2015\Projects\correctorTextGrid-01\correctorTextGrid-01\obj\Debug\correctorTextGrid_01.corrector.resources
